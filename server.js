@@ -23,7 +23,7 @@ db.connect(err => {
   if (err) {
     console.error('Database connection failed:', err.message);
   } else {
-    console.log('Connected to MySQL database (shop_db)');
+    console.log('Successfully Connected to MySQL database (shop_db)');
   }
 });
 

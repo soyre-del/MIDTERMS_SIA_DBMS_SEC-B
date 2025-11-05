@@ -12,10 +12,7 @@ Node.js Backend CRUD API
   - PUT – Update existing records
   - DELETE – Remove data entries
 - Class format:  
-  - Afternoon classes: Individual activity  
-
----
-
+  - Afternoon classes: Individual activity 
 ## Database Setup
 
 ### 1. Database Name
